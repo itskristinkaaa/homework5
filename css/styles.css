@@ -77,9 +77,9 @@ table {
 	height: 200px;
 }
 
-.block-four {
+div.block-four {
 	font-size: 0;
-	border: 0 !important;
+	border: 0;
 }
 
 .block-four > div {
